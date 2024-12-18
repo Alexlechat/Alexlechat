@@ -1,4 +1,5 @@
-Hi, I'm **Alexandre Lefranc**, a 33-year-old developer currently studying at **École 42 Lyon**.  
+### Hi, 
+I'm **Alexandre Lefranc**, a 33-year-old developer currently studying at **École 42 Lyon**.  
 I'm passionate about coding, problem-solving, and continuously learning new technologies.
 
 ### Skills & Interests
