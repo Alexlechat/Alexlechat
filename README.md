@@ -10,4 +10,5 @@ I'm passionate about coding, problem-solving, and continuously learning new tech
 ### Let's Connect
 
 -  Email: [allefran@student.42lyon.fr](mailto:allefran@student.42lyon.fr)  
--  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+-  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)    ![](https://img.shields.io/badge/%20São%20Paulo-000000?style=for-the-badge&logo=42&logoColor=white)(https://profile.intra.42.fr/users/allefran)
+
