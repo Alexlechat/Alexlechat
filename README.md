@@ -12,5 +12,5 @@ I'm passionate about coding, problem-solving, and continuously learning new tech
 
 ## Let's Connect
 
--  Email: allefran@student.42lyon.fr(mailto:allefran@student.42lyon.fr)  
+-  Email: [allefran@student.42lyon.fr](mailto:allefran@student.42lyon.fr)  
 -  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
