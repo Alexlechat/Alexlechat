@@ -10,6 +10,6 @@ I'm passionate about coding, problem-solving, and continuously learning new tech
 
  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allefran@student.42lyon.fr)‎ ‎ ‎ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lefranc-4179835b/) ‎ ‎ [![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/allefran)
 
- [![](https://www.codewars.com/users/Alexlechat/badges/large)](https://www.codewars.com/users/Alexlechat)
+ [![](https://www.codewars.com/users/Alexlechat/badges/small)](https://www.codewars.com/users/Alexlechat)
 
 
