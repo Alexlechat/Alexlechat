@@ -1,10 +1,10 @@
 ### Hi there, 
-I'm **Alexandre Lefranc**, a 33-year-old developer currently studying at **École 42 Lyon**.  
+I'm **Alexandre Lefranc**, a 34-year-old developer currently studying at **École 42 Lyon**.  
 I'm passionate about coding, problem-solving, and continuously learning new technologies.
 
 ### Skills & Interests
 
--  Languages: C, Shell scripting (more to come!).  
+-  Languages: C, Shell scripting.  
 -  Interests: Algorithms, low-level programming, and system design.
 
 
